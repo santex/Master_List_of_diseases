@@ -1,69 +1,69 @@
 # Master_List_of_diseases
 First Time Help Guide for List_of_diseases
 
-Cardiovascular_diseases
-Infectious_and_parasitic_diseases
-Ischemic_heart_disease
-Malignant_neoplasms_(cancers)
-Cerebrovascular_disease_(Stroke)
-Respiratory_infections
-Lower_respiratory_tract_infections
-Respiratory_diseases
-Unintentional_injuries
-HIV_AIDS
-Chronic_obstructive_pulmonary_disease
-Perinatal_conditions
-Digestive_diseases
-Diarrhea_diseases
-Tuberculosis
-Malaria
-Lung_cancer
-Childhood_diseases
-Neuropsychiatric_disorders
-Diabetes_mellitus_
-Hypertensive_heart_disease
-Stomach_cancer
-Diseases_of_the_genitourinary_system
-Cirrhosis_of_the_liver
-Nephritis_nephropathy
-Colorectal_cancer
-Liver_cancer
-Measles
-Congenital_abnormalities
-Nutritional_deficiencies
-Breast_cancer
-Esophageal_cancer
-Inflammatory_heart_disease
-Alzheimers_disease_and_other_dementias
-Lymphomas_multiple_myeloma
-Rheumatic_heart_disease
-Oral_and_oropharynx_cancers
-Pertussis
-Prostate_cancer
-Leukemia
-Peptic_ulcer_disease
-Protein-energy_malnutrition
-Endocrine_nutritional_disorders
-Asthma
-Cervical_cancer
-Pancreatic_cancer
-Tetanus
-Bladder_cancer
-Meningitis
-Syphilis
-Neoplasms_other_than_malignant
-Ovarian_cancer
-Iron_deficiency_anemia
-Epilepsy
-Musculoskeletal_diseases
-Hepatitis_B
-Parkinsons_disease
-Upper_respiratory_infections
-Skin_diseases
-Uterine_cancer
-Melanoma_and_other_skin_cancers
-Hepatitis_C
-Leishmaniasis
-Trypanosomiasis
-Benign_prostatic_hyperplasia
+ *** Cardiovascular_diseases
+ *** Infectious_and_parasitic_diseases
+ *** Ischemic_heart_disease
+ *** Malignant_neoplasms_(cancers)
+ *** Cerebrovascular_disease_(Stroke)
+ *** Respiratory_infections
+ *** Lower_respiratory_tract_infections
+ *** Respiratory_diseases
+ *** Unintentional_injuries
+ *** HIV_AIDS
+ *** Chronic_obstructive_pulmonary_disease
+ *** Perinatal_conditions
+ *** Digestive_diseases
+ *** Diarrhea_diseases
+ *** Tuberculosis
+ *** Malaria
+ *** Lung_cancer
+ *** Childhood_diseases
+ *** Neuropsychiatric_disorders
+ *** Diabetes_mellitus_
+ *** Hypertensive_heart_disease
+ *** Stomach_cancer
+ *** Diseases_of_the_genitourinary_system
+ *** Cirrhosis_of_the_liver
+ *** Nephritis_nephropathy
+ *** Colorectal_cancer
+ *** Liver_cancer
+ *** Measles
+ *** Congenital_abnormalities
+ *** Nutritional_deficiencies
+ *** Breast_cancer
+ *** Esophageal_cancer
+ *** Inflammatory_heart_disease
+ *** Alzheimers_disease_and_other_dementias
+ *** Lymphomas_multiple_myeloma
+ *** Rheumatic_heart_disease
+ *** Oral_and_oropharynx_cancers
+ *** Pertussis
+ *** Prostate_cancer
+ *** Leukemia
+ *** Peptic_ulcer_disease
+ *** Protein-energy_malnutrition
+ *** Endocrine_nutritional_disorders
+ *** Asthma
+ *** Cervical_cancer
+ *** Pancreatic_cancer
+ *** Tetanus
+ *** Bladder_cancer
+ *** Meningitis
+ *** Syphilis
+ *** Neoplasms_other_than_malignant
+ *** Ovarian_cancer
+ *** Iron_deficiency_anemia
+ *** Epilepsy
+ *** Musculoskeletal_diseases
+ *** Hepatitis_B
+ *** Parkinsons_disease
+ *** Upper_respiratory_infections
+ *** Skin_diseases
+ *** Uterine_cancer
+ *** Melanoma_and_other_skin_cancers
+ *** Hepatitis_C
+ *** Leishmaniasis
+ *** Trypanosomiasis
+ *** Benign_prostatic_hyperplasia
 
