@@ -1,0 +1,306 @@
+3: stomach
+3: Anorexia symptom
+3: metastasis
+3: processed meat
+2: malignant
+2: adenocarcinoma
+2: neuroendocrine tumor
+2: neuroendocrine cell
+2: cancer staging
+2: radiation therapy
+2: quality of life
+2: breast cancer
+2: five-year survival rate
+2: Anaplasia
+2: Diabetes mellitus
+2: Trousseau sign of malignancy
+2: autopsy
+2: African American
+2: lifetime risk
+2: HE stain
+2: performance status
+2: laparoscopy
+1: Oncology
+1: cell biology
+1: pancreas
+1: Neoplasm
+1: cancer
+1: digestive enzyme
+1: jaundice
+1: abdominal pain
+1: back pain
+1: cachexia
+1: feces
+1: Pathognomonic
+1: tobacco smoking
+1: obesity
+1: diabetes mellitus
+1: heredity
+1: medical imaging
+1: ultrasound
+1: X-ray computed tomography
+1: biopsy
+1: Cancer screening
+1: chemotherapy
+1: palliative care
+1: Pain management
+1: prostate cancer
+1: acinar cell
+1: digestive enzymes
+1: Exocrine component of pancreas
+1: hormone
+1: endocrine
+1: epithelium
+1: enzymes
+1: bicarbonate
+1: acinar cell carcinoma of the pancreas
+1: Acinus
+1: Cystadenocarcinoma
+1: Pancreatoblastoma
+1: adenosquamous carcinoma
+1: signet ring cell carcinoma
+1: hepatoid carcinoma
+1: osteoclast
+1: giant cell
+1: Solid pseudopapillary tumor
+1: Grading tumors
+1: Pancreatic mucinous cystic neoplasm
+1: WHO
+1: Benign tumorBenign vs malignant
+1: Nervous system
+1: Rare disease
+1: insulin
+1: gastrin
+1: glucagon
+1: low blood sugar
+1: insulinoma
+1: gastrinoma
+1: Medical Subject Headings
+1: glucagonoma
+1: somatostatinoma
+1: VIPoma
+1: islet cell
+1: bile duct
+1: Abdominal pain
+1: Jaundice
+1: sclera
+1: common bile duct
+1: Cachexia
+1: Dyspepsia
+1: nausea
+1: Steatorrhea
+1: Constipation
+1: portal venous system
+1: Clinical depression
+1: Xerostomia
+1: Palpation
+1: Abdominal mass
+1: cancer metastasis
+1: lymph node
+1: liver
+1: peritoneal cavity
+1: large intestine
+1: secondary cancer
+1: Kidney cancer
+1: colorectal cancer
+1: melanoma
+1: lung cancer
+1: Risk factor
+1: Tobacco smoking
+1: smoking cessation
+1: Obesity
+1: Body mass index
+1: relative risk
+1: Consanguinity
+1: gene
+1: Hereditary pancreatitis
+1: Peutz–Jeghers syndrome
+1: tumor suppressor gene
+1: dysplastic nevus syndrome
+1: autosomal recessive
+1: ataxia-telangiectasia
+1: hereditary non-polyposis colon cancer
+1: familial adenomatous polyposis
+1: multiple endocrine neoplasia type 1
+1: von Hippel Lindau syndrome
+1: Chronic pancreatitis
+1: Typenbsp2 diabetes
+1: Diet nutrition
+1: red meat
+1: chronic pancreatitis
+1: confounding
+1: type 2 diabetes
+1: thrombophlebitis
+1: pancreatitis
+1: gallbladder
+1: Courvoisiers law
+1: differential diagnosis
+1: gallstone
+1: Medical imaging
+1: computed tomography
+1: endoscopic ultrasound
+1: Resection surgery
+1: Magnetic resonance imaging
+1: positron emission tomography
+1: magnetic resonance cholangiopancreatography
+1: Abdominal ultrasound
+1: ascites
+1: fine needle aspiration
+1: Histology
+1: Liver function test
+1: conjugated bilirubin
+1: Gamma glutamyl transpeptidase
+1: alkaline phosphatase
+1: CA19-9
+1: tumor marker
+1: sensitivity and specificity
+1: Lewis antigen system
+1: desmoplasia
+1: Stroma animal tissue
+1: cell type
+1: myofibroblast
+1: macrophage
+1: lymphocyte
+1: mast cell
+1: type I collagen
+1: hyaluronic acid
+1: tumor microenvironment
+1: blood vessel
+1: oxygen
+1: tumor hypoxia
+1: CT scan
+1: American Joint Committee on Cancer
+1: Union for International Cancer Control
+1: TNM staging system
+1: celiac axis
+1: superior mesenteric artery
+1: duodenum
+1: transverse colon
+1: spleen
+1: adrenal gland
+1: kidney
+1: lymphatic vessel
+1: lung
+1: National Comprehensive Cancer Network
+1: precancer
+1: lesion
+1: pancreatic serous cystadenoma
+1: intraepithelial neoplasia
+1: cancer grading
+1: Gs alpha subunit
+1: Wnt signaling pathway
+1: pancreatic mucinous cystic neoplasm
+1: exome sequencing
+1: MEN1 syndrome
+1: American Cancer Society
+1: whole grain
+1: citrus fruit
+1: curcumin
+1: folate
+1: selenium
+1: Multidisciplinary approach
+1: oncology
+1: vein
+1: artery
+1: neoadjuvant therapy
+1: Resection margin
+1: cancer stem cells
+1: Pancreaticoduodenectomy
+1: Bypass surgery
+1: jejunum
+1: cystic duct
+1: distal pancreatectomy
+1: Splenectomy
+1: Laparoscopic surgery
+1: Complication medicine
+1: Large intestine
+1: Adjuvant therapy
+1: gemcitabine
+1: 5-FU
+1: neoadjuvant
+1: chemoradiotherapy
+1: Gemcitabine
+1: Food and Drug Administration United States
+1: clinical trial
+1: Survival ratemedian survival
+1: erlotinib
+1: FOLFIRINOX
+1: chemotherapy regimen
+1: protein-bound paclitaxel
+1: European Society for Medical Oncology
+1: watchful waiting
+1: comorbidity
+1: Hormonal therapy oncologySomatostatin analogs
+1: octreotide
+1: Lanreotide
+1: targeted therapy
+1: everolimus
+1: sunitinib
+1: cytotoxic
+1: peptide
+1: nuclear medicine
+1: radiolabeled
+1: iobenguane
+1: Radiofrequency ablation
+1: cryoablation
+1: hepatic artery embolization
+1: Palliative care
+1: cancer pain
+1: hospice care
+1: opioid
+1: nerve block
+1: celiac plexus
+1: Bile ductDrainage
+1: stent
+1: endoscope
+1: digestive system
+1: pancreatin
+1: nasogastric aspiration
+1: proton-pump inhibitor
+1: H2 antagonist
+1: gastric acid
+1: prognosis
+1: metastatic
+1: developed countries
+1: White American
+1: East Asia
+1: Argentina
+1: Uruguay
+1: Incidence epidemiology
+1: autopsies
+1: Incidental findings
+1: prevalence
+1: asymptomatic
+1: epidemiology
+1: Giovanni Battista Morgagni
+1: anatomic pathology
+1: case report
+1: histopathologic
+1: Jacob Mendes Da Costa
+1: hyperinsulinism
+1: Zollinger–Ellison syndrome
+1: peptic ulcer
+1: Alessandro Codivilla
+1: Walther Kausch
+1: Wrocław
+1: Allen Oldfather Whipple
+1: Columbia Presbyterian Hospital
+1: vitaminnbspK
+1: Vitamin K deficiency
+1: blood transfusion
+1: Johns Hopkins Hospital
+1: Massachusetts General Hospital
+1: Secondary prevention
+1: Irreversible electroporation
+1: AblationMedicine
+1: radiochemotherapy
+1: targeted therapies
+1: Molecular pathway
+1: Stromal cell
+1: Cell growthCell growth disorders
+1: immunotherapy
+1: oncolytic virus
+1: Gastrointestinal cancer
+1: Pancreatic Cancer Action
+1: Lustgarten Foundation for Pancreatic Cancer Research
+1: List of people diagnosed with pancreatic cancer
