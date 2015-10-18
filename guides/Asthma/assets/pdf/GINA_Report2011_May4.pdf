@@ -1,0 +1,178 @@
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<title>GINA</title>
+<meta http-equiv='Content-Type' content='text/html; charset=UTF-8' />
+<meta name='Content-Language' content='en-GB' />
+<meta name='language' content='english' />
+<meta name='title' content='GINA' />
+<meta property='og:title' content='GINA' />
+<link rel='sitemap' href='http://www.ginasthma.org/sitemap.xml' type='application/xml' />
+<link rel='stylesheet' type='text/css' href='http://www.ginasthma.org/local/cache/css/gina-default-b2686a2ea15ce75dcc58fe37a754b2ab.css' />
+<script type='text/javascript' language='javascript' src='http://www.ginasthma.org/local/cache/javascript/gina-default-9d358107f403bc1f419d6a35acac205b.js'></script>
+<script type='text/javascript'>
+	var DOMAIN = 'http://www.ginasthma.org/';
+	var SERVER = '/opt/home/ginasthma/domains/ginasthma.org/public_html/';
+	var CSS = 'http://www.ginasthma.org/local/cache/css/gina-default-b2686a2ea15ce75dcc58fe37a754b2ab.css';
+	var FRAMEWORK = 1;
+	var MOBILE = 0;
+	var THEME = 'gina';
+	var config_links_external_new = '1';
+</script>
+</head>
+<body id='body' class='home'>
+	<div class='clouds'>
+		<div id='container'>
+			<div id='header'>
+				<div id='header-top'>
+					<div class='menu menu-horizontal' id='menu-header'>
+						<ul class='menu-ul'><li class='menu-item-1 menu-li'><a href='http://www.ginasthma.org/'>Home</a></li><li class='menu-seps'></li><li class='menu-item-2 menu-li'><a href='http://www.ginasthma.org/About-Us'>About Us</a></li><li class='menu-seps'></li><li class='menu-item-3 menu-li'><a href='http://www.ginasthma.org/FAQs'>FAQ&#039;s</a></li><li class='menu-seps'></li><li class='menu-item-4 menu-li'><a href='http://www.ginasthma.org/Contact-Us'>Contact Us</a></li></ul>
+					</div>
+					
+					<form id='search-form' method='get' action='http://www.ginasthma.org/search'>
+						<input class='search-term' type='text' name='q' placeholder='Search...' /><input class='search-submit' type='submit' value=''>
+						<a class='search-advanced' href='http://www.ginasthma.org/search'>Advanced Search</a>
+					</form>
+					
+					<div class='menu menu-horizontal' id='menu-social'>
+						<ul class='menu-ul'><li class='menu-li'><a href='https://www.facebook.com/GlobalInitiativeForAsthma' class='menu-link'><img src='http://www.ginasthma.org/local/uploads/images/o/icon-facebook.png' alt='Facebook' /></a></li><li class='menu-li'><a href='https://twitter.com/ginasthma' class='menu-link'><img src='http://www.ginasthma.org/local/uploads/images/o/icon-twitter.png' alt='Twitter' /></a></li></ul>
+					</div>
+				</div>
+				
+				<div id='header-middle'>
+					<div id='logo'></div>
+					
+					
+<div class='carousel'>
+	<ul class='carousel-ul scroller {"speed":"800","rebound_continuous":"1","auto":0,"auto_pause":"8000","rebound":1,"pages":1}'>
+		<li class='carousel-slide'>
+			<p>
+	<a href="http://www.ginasthma.org/World-Asthma-Day"><img alt="" src="http://ginasthma.org/local/uploads/content/images/ginasthma-slide.jpg" style="width: 800px; height: 230px;" /></a></p>
+
+		</li>
+		<li class='carousel-slide'>
+			<p>
+	<a href="http://www.ginasthma.org/Asthma-Education-Videos"><img alt="" src="http://www.ginasthma.org/local/uploads/content/images/VideoBanner.jpg" style="width: 800px; height: 230px;" /></a></p>
+
+		</li>
+	</ul>
+	<div class='clear'></div>
+</div>
+				</div>
+				
+				<div class='menu menu-horizontal' id='menu-main'>
+					<ul class='menu-ul'><li class='menu-item-1 menu-li'><a href='http://www.ginasthma.org/documents/1/Pocket-Guide-for-Asthma-Management-and-Prevention'>Documents &amp; Resources</a></li><li class='menu-seps'></li><li class='menu-item-2 menu-li'><a href='http://www.ginasthma.org/Patients'>Patients</a></li><li class='menu-seps'></li><li class='menu-item-3 menu-li'><a href='http://www.ginasthma.org/World-Asthma-Day'>World Asthma Day</a></li><li class='menu-seps'></li><li class='menu-item-4 menu-li'><a href='http://www.ginasthma.org/Mesoamerica'>Mesoamerica</a></li><li class='menu-seps'></li><li class='menu-item-5 menu-li'><a href='http://www.ginasthma.org/Asthma-Control-Challenge'>Asthma Control Challenge</a></li></ul>
+				</div>
+			</div>
+			
+			<div id='content'>
+				<div id='content-headers'>
+					<h2 id='content-header-welcome'>Welcome</h2>
+					<h2 id='content-header-documents'>Documents</h2>
+					<h2 id='content-header-news'> News</h2>
+					<div class='clear'></div>
+				</div>
+				
+<div class='page page-item page-item-home'>
+	<table border="0" cellpadding="0" cellspacing="0" class="home-content" style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 25%;">
+				<p style="text-align: center;">
+					<img alt="" src="http://ginasthma.org/local/uploads/content/images/hiking-home.png" style="width: 200px; height: 127px;" /></p>
+				<h3>
+					&nbsp;</h3>
+				<h3>
+					Welcome To GINA</h3>
+				<p>
+					&nbsp;</p>
+				<p>
+					The Global Initiative for Asthma (GINA) works with health care professionals and public health officials around the world to reduce asthma prevalence, morbidity, and mortality.</p>
+			</td>
+			<td style="width: 25%;">
+				<p style="text-align: center;">
+					<img alt="" src="http://ginasthma.org/local/uploads/content/images/sup-doc-home.png" style="width: 200px; height: 127px;" /></p>
+				<h3>
+					&nbsp;</h3>
+				<h3>
+					Pocket Guide For Asthma Management And Prevention</h3>
+				<p>
+					&nbsp;</p>
+				<p>
+					Updated April&nbsp;2015. A quick-reference guide for physicians and nurses based on the&nbsp;GINA Report.</p>
+			</td>
+			<td style="width: 25%;">
+				<p style="text-align: center;">
+					<img alt="" src="http://www.ginasthma.org/local/uploads/content/images/home-image-gina_report-3.jpg" style="width: 200px; height: 127px;" /></p>
+				<h3>
+					&nbsp;</h3>
+				<h3>
+					GINA Report, Global Strategy For Asthma Management And Prevention</h3>
+				<p>
+					&nbsp;</p>
+				<p>
+					Updated April&nbsp;2015. The first annual update to last year&#39;s major revision of GINA&#39;s&nbsp;evidence-based strategy for asthma management and prevention, with citations from the scientific literature.</p>
+			</td>
+			<td style="width: 25%;">
+				<p style="text-align: center;">
+					<img alt="" src="http://www.ginasthma.org/local/uploads/content/images/home-image-news-3.jpg" style="width: 200px; height: 127px;" /></p>
+				<h3>
+					&nbsp;</h3>
+				<h3>
+					GINA Launches Program to Honor&nbsp;Asthma &quot;Ambassadors&quot;</h3>
+				<p>
+					&nbsp;</p>
+				<p>
+					<span style="font-family: Arial,Helvetica,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline ! important; float: none;">May 5, 2015. The new GINA Ambassador Program, launched on World Asthma Day 2015, honors the contributions of individuals around the world to improving asthma management and control.</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 25%; text-align: center;">
+				<p>
+					<a href="http://www.ginasthma.org/About-Us"><img alt="" class="home-learn-more" src="http://www.ginasthma.org/local/uploads/content/images/button-wide-learn_more.png" style="width: 212px; height: 26px;" /></a></p>
+				<p>
+					&nbsp;</p>
+			</td>
+			<td style="width: 25%; text-align: center;">
+				<p>
+					<a href="http://www.ginasthma.org/documents/1"><img alt="" class="home-learn-more" src="http://www.ginasthma.org/local/uploads/content/images/button-wide-learn_more.png" style="width: 212px; height: 26px;" /></a></p>
+				<p>
+					&nbsp;</p>
+			</td>
+			<td style="width: 25%; text-align: center;">
+				<p>
+					<a href="http://www.ginasthma.org/documents/4"><img alt="" class="home-learn-more" src="http://www.ginasthma.org/local/uploads/content/images/button-wide-learn_more.png" style="width: 212px; height: 26px;" /></a></p>
+				<p>
+					&nbsp;</p>
+			</td>
+			<td style="width: 25%; text-align: center;">
+				<p>
+					<a href="http://www.ginasthma.org/GINA-Ambassador-Program"><img alt="" class="home-learn-more" src="http://www.ginasthma.org/local/uploads/content/images/button-wide-learn_more.png" style="width: 212px; height: 26px;" /></a></p>
+				<p>
+					&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="no-show">
+	&nbsp;</p>
+
+</div>
+				<div class='clear'></div>
+			</div>
+			
+			<div id='footer'>
+				<span id='copyright'>&#169; Global Initiative for Asthma, All Rights Reserved.</span>
+				<div class='menu menu-horizontal' id='menu-social-footer'>
+					<ul class='menu-ul'><li class='menu-li'><a href='https://www.facebook.com/GlobalInitiativeForAsthma' class='menu-link'><img src='http://www.ginasthma.org/local/uploads/images/o/icon-facebook.png' alt='Facebook' /></a></li><li class='menu-li'><a href='https://twitter.com/ginasthma' class='menu-link'><img src='http://www.ginasthma.org/local/uploads/images/o/icon-twitter.png' alt='Twitter' /></a></li></ul>
+				</div>
+				<div class='menu menu-horizontal' id='menu-footer'>
+					<ul class='menu-ul'><li class='menu-item-1 menu-li'><a href='http://www.ginasthma.org/'>Home</a></li><li class='menu-seps'></li><li class='menu-item-2 menu-li'><a href='http://www.ginasthma.org/About-Us'>About Us</a></li><li class='menu-seps'></li><li class='menu-item-3 menu-li'><a href='http://www.ginasthma.org/FAQs'>FAQ&#039;s</a></li><li class='menu-seps'></li><li class='menu-item-4 menu-li'><a href='http://www.ginasthma.org/Contact-Us'>Contact Us</a></li></ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+
+	</html>
