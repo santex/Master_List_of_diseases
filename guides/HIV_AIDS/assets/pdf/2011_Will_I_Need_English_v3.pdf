@@ -1,0 +1,593 @@
+
+<!DOCTYPE html>
+<!-- 0 -->
+<!-- 201505060947 -->
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8 ie7"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+<head>
+    
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        
+<title>Document Library | NHSBT Hospitals and Science</title>
+        
+<meta name="description" content="NHSBT Hospitals and Science Document Library">
+<link rel="canonical" href="http://hospital.blood.co.uk/document-library/">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="begin" href="http://hospital.blood.co.uk/document-library/?page=1"
+<link rel="next" href="http://hospital.blood.co.uk/document-library/?page=2"
+
+
+
+
+    
+
+    <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery/jquery-1.10.2.min.js"></script>
+
+    <script type="text/javascript">
+        window.jQuery || document.write('<script type="text/javascript" src="/scripts/jquery-1.10.2.min.js"><\/script>')
+    </script>
+
+    <link href='/css/style.css' rel='stylesheet' type='text/css'>
+
+    <!--[if IE 7]>
+<link href="/css/ie7.css" rel="stylesheet" type="text/css" />
+
+<![endif]-->
+
+    <!--[if lt IE 9]>
+	<script language="javascript" type="text/javascript" src="/Scripts/respond.js"></script>
+<![endif]-->
+
+    <script> document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, 'js'); </script>
+
+    
+    <!--  <link href="/bundle/styles.css" rel="stylesheet"/>
+ -->
+
+    
+</head>
+<body>
+    <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MQ93KH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-MQ93KH');</script>
+<!-- End Google Tag Manager -->
+
+    
+
+    
+    
+
+<div class="wrapper wrapper__top">
+    <div class="container">
+            <div class="globalnav_search left">
+                <form action="/search/" id="cse-search-box">
+                    <input type="hidden" name="sections" value="entire_site" />
+                    <input type="hidden" name="filter" value="both" />
+                    <label for="search" class="visuallyhidden">Search</label>
+
+                    <div class="search-wrapper">
+                        <input type="text" id="search" name="queryText" size="15" class="globalnav_searchtext" placeholder="Search..." />
+                        <input name="go" type="submit" value="Go" class="globalnav_gobutton" />
+                    </div>
+                </form>
+                
+            </div>
+        <div class="top-right right">
+            <div class="access_bar right">
+                <div class="left accesslinks">
+                    <ul>
+                        <li><a href="http://www.nhsbt.nhs.uk/disclaimers/accessibility.html" target="_blank" class="external-link">Accessibility</a></li>
+                        <li>Text Size:</li>
+                    </ul>
+                </div>
+                <div class="textsizer right">
+                    <ul>
+                        <li>
+                            <a class="textsizer__small" href="#">A</a>
+                        </li>
+                        <li>
+                            <a class="textsizer__medium active" href="#">A</a>
+                        </li>
+                        <li><a class="textsizer__large" href="#">A</a></li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+<div class="wrapper wrapper__header">
+
+    <div class="header container">
+        <div class="header__links fright">
+                        <a href="http://www.nhsbt.nhs.uk/privacy/"  target=&quot;_blank&quot;>Privacy</a>
+                        <a href="http://www.nhsbt.nhs.uk/accessibility/"  target=&quot;_blank&quot;>Accessibility</a>
+                        <a href="http://www.nhsbt.nhs.uk/cookie-information/"  target=&quot;_blank&quot;>Cookie Information</a>
+                        <a href="/the-update/"  target=&quot;_blank&quot;>The Update</a>
+                        <a href="/document-library/" >Document Library</a>
+                        <a href="/contact-us/" >Contact Us</a>
+
+        </div>
+        <div class="clearer">
+            
+                <a href="/" class="logo">
+                    <img src="/media/26810/hospitals-main-logo.gif" alt="NHSBT Hospitals and Science website" class="logo--desktop"/>
+                    <img src="/media/26811/hospitals-main-logo-mobile.gif"  alt="NHSBT Hospitals and Science website" class="logo--mobile" />
+                </a>
+                            <a class="fright" href="http://www.nhsbt.nhs.uk/" title="NHSBT Website">
+                    <img src="/media/1500/nhs_logo.jpg" alt="NHSBT Logo" >
+                </a>
+        </div>
+    </div>
+
+
+    <div class="main-nav container">
+        
+        <ul class="navigation">
+
+                <li><a href="/diagnostic-services/">Diagnostic Services</a>
+
+                        <div class="extra-bg"></div>
+                        <div class="mega-dd">
+                            <ul>
+                                    <li>
+                                        <a href="/diagnostic-services/diagnostic-user-guides/">Diagnostic User Guides</a>
+                                    </li>
+                                    <li>
+                                        <a href="/diagnostic-services/red-cell-immunohaematology/">Red Cell Immunohaematology</a>
+                                    </li>
+                                    <li>
+                                        <a href="/diagnostic-services/reagents/">Reagents</a>
+                                    </li>
+                                    <li>
+                                        <a href="/diagnostic-services/hi/">Histocompatibility and Immunogenetics</a>
+                                    </li>
+                                    <li>
+                                        <a href="/diagnostic-services/stem-cells/">Stem Cells</a>
+                                    </li>
+                                    <li>
+                                        <a href="/diagnostic-services/transfusion-microbiology/">Transfusion Microbiology</a>
+                                    </li>
+                                    <li>
+                                        <a href="/diagnostic-services/sp-ice-browser/">Sp-ICE Browser</a>
+                                    </li>
+                                    <li>
+                                        <a href="/diagnostic-services/reporting-adverse-events/">Reporting Adverse Events</a>
+                                    </li>
+                            </ul>
+                        </div>
+                </li>
+                <li><a href="/patient-services/">Patient Services</a>
+
+                        <div class="extra-bg"></div>
+                        <div class="mega-dd">
+                            <ul>
+                                    <li>
+                                        <a href="/patient-services/therapeutic-apheresis-services/">Therapeutic Apheresis Services</a>
+                                    </li>
+                                    <li>
+                                        <a href="/patient-services/patient-blood-management/">Patient Blood Management Resources</a>
+                                    </li>
+                            </ul>
+                        </div>
+                </li>
+                <li><a href="/products/">Products</a>
+
+                        <div class="extra-bg"></div>
+                        <div class="mega-dd">
+                            <ul>
+                                    <li>
+                                        <a href="/products/plasma-components/">Plasma Components</a>
+                                    </li>
+                                    <li>
+                                        <a href="/products/obos/">OBOS</a>
+                                    </li>
+                                    <li>
+                                        <a href="/products/electronic-despatch-note/">Electronic Despatch Note</a>
+                                    </li>
+                                    <li>
+                                        <a href="/products/eba-euroapheresis-validations/">EBA EuroApheresis Validations</a>
+                                    </li>
+                                    <li>
+                                        <a href="/products/national-commissioning-group/">National Commissioning Group</a>
+                                    </li>
+                                    <li>
+                                        <a href="/products/non-clinical-issue/">Non Clinical Issue</a>
+                                    </li>
+                            </ul>
+                        </div>
+                </li>
+                <li><a href="/training/">Training</a>
+
+                        <div class="extra-bg"></div>
+                        <div class="mega-dd">
+                            <ul>
+                                    <li>
+                                        <a href="/training/training-courses/">Training Courses</a>
+                                    </li>
+                                    <li>
+                                        <a href="/training/programme-diary/">Programme Diary</a>
+                                    </li>
+                                    <li>
+                                        <a href="/training/programme-details/">Programme Details</a>
+                                    </li>
+                                    <li>
+                                        <a href="/training/support-material/">Support Material</a>
+                                    </li>
+                            </ul>
+                        </div>
+                </li>
+                <li><a href="/research/">Research</a>
+
+                        <div class="extra-bg"></div>
+                        <div class="mega-dd">
+                            <ul>
+                                    <li>
+                                        <a href="/research/hass/">HASS</a>
+                                    </li>
+                                    <li>
+                                        <a href="/research/non-clinical-issue/">Non Clinical Issue</a>
+                                    </li>
+                            </ul>
+                        </div>
+                </li>
+                <li><a href="/resources/">Resources</a>
+
+                        <div class="extra-bg"></div>
+                        <div class="mega-dd">
+                            <ul>
+                                    <li>
+                                        <a href="/resources/clinical-guidelines/">Clinical Guidelines</a>
+                                    </li>
+                                    <li>
+                                        <a href="/resources/guidelines-and-advice-from-other-organisations/">Guidelines and Advice from Other Organisations</a>
+                                    </li>
+                            </ul>
+                        </div>
+                </li>
+                <li><a href="/business-continuity/">Business Continuity</a>
+
+                        <div class="extra-bg"></div>
+                        <div class="mega-dd">
+                            <ul>
+                                    <li>
+                                        <a href="/business-continuity/contingency-planning/">Contingency Planning</a>
+                                    </li>
+                            </ul>
+                        </div>
+                </li>
+                <li><a href="/audits/">Audits</a>
+
+                        <div class="extra-bg"></div>
+                        <div class="mega-dd">
+                            <ul>
+                                    <li>
+                                        <a href="/audits/nhsbt-clinical-audit/">NHSBT Clinical Audit</a>
+                                    </li>
+                                    <li>
+                                        <a href="/audits/national-comparative-audit/">National Comparative Audit</a>
+                                    </li>
+                                    <li>
+                                        <a href="/audits/regional-transfusion-committee-audit-activity/">Regional Transfusion Committee Audit Activity</a>
+                                    </li>
+                            </ul>
+                        </div>
+                </li>
+                <li><a href="/customer-services/">Customer Services</a>
+
+                        <div class="extra-bg"></div>
+                        <div class="mega-dd">
+                            <ul>
+                                    <li>
+                                        <a href="/customer-services/complaints-compliments-and-feedback/">Complaints, Compliments and Feedback</a>
+                                    </li>
+                                    <li>
+                                        <a href="/customer-services/blood-and-transplant-matters/">Blood and Transplant Matters</a>
+                                    </li>
+                                    <li>
+                                        <a href="/customer-services/request-for-credit/">Request For Credit</a>
+                                    </li>
+                                    <li>
+                                        <a href="/customer-services/voice-of-the-customer/">Voice of the Customer</a>
+                                    </li>
+                            </ul>
+                        </div>
+                </li>
+
+        </ul>
+        <a href="/search">
+            <div class="mobile-search"></div>
+        </a>
+        <div class="toggle">
+            <button id="openClose">Menu</button>
+        </div>
+    </div>
+
+</div>
+
+
+
+
+    
+
+
+
+<div class="breadcrumb container clearfix">
+    <div class="breadcrumb-left">
+         
+<p class="breadcrumb-links" itemscope itemtype="http://hospital.blood.co.uk/Breadcrumb">You are here:&nbsp;&nbsp;
+
+            <a href="/"  itemprop="url"><span itemprop="title">Home</span></a> &nbsp;>&nbsp;    Document Library</p>
+
+    </div>
+    <div class="breadcrumb-right">
+        <!-- AddThis Button BEGIN -->
+	<div class="addthis_toolbox addthis_default_style addthis_16x16_style">
+	<a class="addthis_button_facebook"></a>
+	<a class="addthis_button_twitter"></a>
+	<a class="addthis_button_linkedin"></a>
+	<a class="addthis_button_google_plusone_share"></a>
+	<a class="addthis_button_email"></a>
+	<a class="addthis_button_compact"></a><a class="addthis_counter addthis_bubble_style"></a>
+	</div>
+	<!--<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>-->
+	<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51bb04b003b55d1f"></script>
+	<!-- AddThis Button END -->
+    </div>
+</div>
+
+
+
+<div class="wrapper wrapper--content">
+    <div class="container">
+         
+<div class="aside">
+            <ul class="side-nav">
+                
+                
+
+
+          
+			</ul>
+        </div>
+        
+<div class="subnav_container block mobile_subnav">
+    <div class="pod">
+        <div class="pod-inner">
+
+
+            <!-- Level One -->
+              
+
+<input type="checkbox" id="ONE" class="expander-checkbox" />
+<label for="ONE" class='expander no-child'>
+    Document Library
+    <span class="bars">=</span>
+    <span class="close-x">x</span>
+</label>
+<ul class="mobile-nav-sub-level">
+</ul>
+
+
+
+
+
+        </div>
+    </div>
+</div>
+
+        <div class="mobile-padder">
+            <div class="main-content">
+                <div class="main">
+                    <h1>Document Library</h1>
+                    
+                    
+
+<form action="/document-library/" class="document-filter" enctype="multipart/form-data" method="post">                        <fieldset>
+                            <legend class="visuallyhidden">Document filter</legend>
+                            <label for="filter-documents">Filter document by:</label>
+                            <select class="custom-select" id="Categories" name="Categories"><option value="0">All</option>
+<option value="9">Audits</option>
+<option value="20">Business Continuity</option>
+<option value="24">Customer Services</option>
+<option value="25">Diagnostic Services</option>
+<option value="12">H</option>
+<option value="10">News</option>
+<option value="23">Patient Services</option>
+<option value="7">Products</option>
+<option value="13">RCI (Red Cell Immunohaematology)</option>
+<option value="14">Reagents</option>
+<option value="8">Research</option>
+<option value="26">Research</option>
+<option value="19">Resources</option>
+<option value="17">Specialist Therapeutic Services</option>
+<option value="11">Stem Cells</option>
+<option value="15">Stem Cells</option>
+<option value="18">Training</option>
+<option value="16">Transfusion Microbiology</option>
+</select>
+                        </fieldset>
+                        <fieldset>
+                            <legend class="visuallyhidden">Document Order</legend>
+                            <label for="filter-order">Order document by</label>
+                            <select class="custom-select" id="OrderBy" name="OrderBy"><option selected="selected" value="dateAscending">Newest (date)</option>
+<option value="dateDescending">Oldest (date)</option>
+<option value="docTypeA">Document type (A-Z)</option>
+<option value="docTypeZ">Document type (Z-A)</option>
+<option value="titleA">Title (A-Z)</option>
+<option value="titleZ">Title (Z-A)</option>
+</select>
+                        </fieldset>
+                        <br />
+                        <br />
+                        <input type="submit" class="btn" name="submit-doc-filter" value="Filter" title="Search" />
+<input name='ufprt' type='hidden' value='FFF693D5062C99D7CB9D918C22E47B6BAE4F048F810FC16E4FCCD5F009C47A6423A0B72433B1334D35701EA718AFD78F701D3CF59A6004532D7D004227C19117C6A278B3B340F55248185AAB992A3D7FA25BC22AD7BABC4924F3421843BEA8D0A6FAEDCA8D3CB2C348EB98756516B6E7B6FEC7A639ABD07B34E77F53DAF617A6DC9B5B3D740D930A85CAFA5EB9A1E89D5831F7EE9204F5541C9C5BFFF1282F111D4F6CCBD890CF4BA26D80D20DB0B5B1' /></form>                    <div class="document-wrapper">
+                            <div class='document pdf'>
+                                <h2>Platelet stocks 13-10-15-v1.pdf</h2>
+                                <p></p>
+                                <p><small>13th  October, 2015 : Adobe  PDF Document (49K)</small></p>
+                                <p><a class="btn" target="_blank" href="/media/27860/platelet-stocks-13-10-15-v1.pdf">Download Document</a></p>
+                            </div>
+                            <div class='document pdf'>
+                                <h2>SCD Advert (1)</h2>
+                                <p></p>
+                                <p><small>12th  October, 2015 : Adobe  PDF Document (428K)</small></p>
+                                <p><a class="btn" target="_blank" href="/media/27853/151006-1-26845-bame-od-and-blood-a4-advert_v2.pdf">Download Document</a></p>
+                            </div>
+                            <div class='document pdf'>
+                                <h2>SCD Advert</h2>
+                                <p></p>
+                                <p><small>12th  October, 2015 : Adobe  PDF Document (428K)</small></p>
+                                <p><a class="btn" target="_blank" href="/media/27852/151006-1-26845-bame-od-and-blood-a4-advert_v2.pdf">Download Document</a></p>
+                            </div>
+                            <div class='document pdf'>
+                                <h2>Events guide</h2>
+                                <p></p>
+                                <p><small>12th  October, 2015 : Adobe  PDF Document (279K)</small></p>
+                                <p><a class="btn" target="_blank" href="/media/27849/a-guide-to-planning-events-to-raise-awareness-of-sickle-cell-disease-and-transfusion-oct15-_2_docx.pdf">Download Document</a></p>
+                            </div>
+                            <div class='document word'>
+                                <h2>Delegates_Certificate_Of_Attendance.doc</h2>
+                                <p></p>
+                                <p><small>12th  October, 2015 : Mircosoft Word Document (495K)</small></p>
+                                <p><a class="btn" target="_blank" href="/media/27848/delegates_certificate_of_attendance.doc">Download Document</a></p>
+                            </div>
+                            <div class='document pdf'>
+                                <h2>R121 3467.pdf</h2>
+                                <p></p>
+                                <p><small>9th  October, 2015 : Adobe  PDF Document (136K)</small></p>
+                                <p><a class="btn" target="_blank" href="/media/27847/r121-3467.pdf">Download Document</a></p>
+                            </div>
+                            <div class='document pdf'>
+                                <h2>sc3467.pdf</h2>
+                                <p></p>
+                                <p><small>9th  October, 2015 : Adobe  PDF Document (24K)</small></p>
+                                <p><a class="btn" target="_blank" href="/media/27846/sc3467.pdf">Download Document</a></p>
+                            </div>
+                            <div class='document pdf'>
+                                <h2>R092 3266.pdf</h2>
+                                <p></p>
+                                <p><small>9th  October, 2015 : Adobe  PDF Document (132K)</small></p>
+                                <p><a class="btn" target="_blank" href="/media/27845/r092-3266.pdf">Download Document</a></p>
+                            </div>
+                            <div class='document pdf'>
+                                <h2>ABO 3257.pdf</h2>
+                                <p></p>
+                                <p><small>8th  October, 2015 : Adobe  PDF Document (137K)</small></p>
+                                <p><a class="btn" target="_blank" href="/media/27844/abo-3257.pdf">Download Document</a></p>
+                            </div>
+                            <div class='document pdf'>
+                                <h2>OBOS 08-10-15-close.pdf</h2>
+                                <p></p>
+                                <p><small>8th  October, 2015 : Adobe  PDF Document (40K)</small></p>
+                                <p><a class="btn" target="_blank" href="/media/27843/obos-08-10-15-close.pdf">Download Document</a></p>
+                            </div>
+                    </div>
+                            <div class="pagination centered">
+                                <div class="pagination__count">
+                                    Page 1 of 131
+                                </div>
+                                <ol>
+
+
+                                            <li><a class="pagination__active">1</a></li>
+                                            <li><a href="?page=2&cat=All&orderby=dateAscending">2</a></li>
+                                            <li><a href="?page=3&cat=All&orderby=dateAscending">3</a></li>
+                                            <li><a href="?page=4&cat=All&orderby=dateAscending">4</a></li>
+                                            <li><a href="?page=5&cat=All&orderby=dateAscending">5</a></li>
+                                            <li><a href="?page=6&cat=All&orderby=dateAscending">6</a></li>
+                                            <li><a href="?page=7&cat=All&orderby=dateAscending">7</a></li>
+                                            <li><a href="?page=8&cat=All&orderby=dateAscending">8</a></li>
+                                            <li><a href="?page=9&cat=All&orderby=dateAscending">9</a></li>
+                                            <li><a href="?page=10&cat=All&orderby=dateAscending">10</a></li>
+
+                                            <li><a class="pagination__prev"href="?page=11&cat=All&orderby=dateAscending">...</a></li>
+                                        <li><a class="pagination__prev"href="?page=2&cat=All&orderby=dateAscending">&gt;&gt;</a></li>
+                                        <li><a class="pagination__prev"href="?page=131&cat=All&orderby=dateAscending">Last &gt;&gt;</a></li>
+
+                                </ol>
+
+                            </div>
+                            <div class="pagination--mobile mobile pagination">
+                                <div class="prev">
+                                </div>
+
+                                <div class="pagination__count">
+                                    Page 1 of 131
+                                </div>
+
+                                <div class="next">
+                                            <a class="pagination__prev"href="?page=11&cat=All&orderby=dateAscending">...</a>
+                                        <a class="pagination__prev"href="?page=2&cat=All&orderby=dateAscending">Next &gt;&gt;</a>                                    
+                                </div>
+
+                                <ol>
+                                   
+                                            <li><a class="pagination__active">1</a></li>
+                                            <li><a href="?page=2&cat=All&orderby=dateAscending">2</a></li>
+                                            <li><a href="?page=3&cat=All&orderby=dateAscending">3</a></li>
+                                            <li><a href="?page=4&cat=All&orderby=dateAscending">4</a></li>
+                                            <li><a href="?page=5&cat=All&orderby=dateAscending">5</a></li>
+                                            <li><a href="?page=6&cat=All&orderby=dateAscending">6</a></li>
+                                            <li><a href="?page=7&cat=All&orderby=dateAscending">7</a></li>
+                                            <li><a href="?page=8&cat=All&orderby=dateAscending">8</a></li>
+                                            <li><a href="?page=9&cat=All&orderby=dateAscending">9</a></li>
+                                            <li><a href="?page=10&cat=All&orderby=dateAscending">10</a></li>
+
+                                </ol>
+                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+<div class="wrapper wrapper__footer">
+    <div class="nav container">
+        <div class="inner-nav">
+            <p class="left">
+                © NHS Blood and Transplant
+            </p>
+            <ul class="footer-nav right">
+                    <li><a href="http://www.nhsbt.nhs.uk/privacy/"  target=&quot;_blank&quot;>Privacy</a></li>
+                    <li><a href="http://www.nhsbt.nhs.uk/accessibility/"  target=&quot;_blank&quot;>Accessibility</a></li>
+                    <li><a href="http://www.nhsbt.nhs.uk/cookie-information/"  target=&quot;_blank&quot;>Cookie Information</a></li>
+                    <li><a href="/search/" >Search</a></li>
+                    <li><a href="/sitemap/" >Sitemap</a></li>
+                    <li><a href="/the-update/" >The Update</a></li>
+                    <li><a href="/document-library/" >Document Library</a></li>
+                    <li><a href="/contact-us/" >Contact Us</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+    
+    <!-- <script src="/bundle/javascript.js"></script>
+-->
+    <script type="text/javascript" src="/scripts/plugins.js"></script>
+    <script type="text/javascript" src="/scripts/script.js"></script>
+    
+
+
+</body>
+</html>
